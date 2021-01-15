@@ -3,3 +3,5 @@ Desafio proposto pela iRancho, para criar uma aplicação que faça um CRUD com 
 - Vue Js
 - Node Js
 - Bootstrap
+- MySQL
+- Express
